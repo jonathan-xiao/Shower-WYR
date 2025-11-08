@@ -1,0 +1,14 @@
+{
+  "name": "wyr-demo",
+  "version": "1.0.0",
+  "description": "Simple Would You Rather demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "run": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
